@@ -22,6 +22,7 @@ public class GridTest  {
 			RemoteWebDriver driver = new RemoteWebDriver(url1, caps);
 				driver.get("http://www.google.com");
 				System.out.println(driver.getSessionId());
+				System.out.println(driver.getSessionId());
 				//RemoteWebDriver driver1 = new RemoteWebDriver(url, caps);
 				//driver1.get("http://www.google.com");
 				
