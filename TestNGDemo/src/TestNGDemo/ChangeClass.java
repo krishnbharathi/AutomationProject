@@ -6,7 +6,7 @@ public class ChangeClass {
 		// TODO Auto-generated method stub
 System.out.println("new changes");
 System.out.println("new changes");
-System.out.println("new changes");
+
 
 	}
 
