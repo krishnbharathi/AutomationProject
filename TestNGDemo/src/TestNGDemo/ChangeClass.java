@@ -7,7 +7,7 @@ public class ChangeClass {
 System.out.println("new changes");
 System.out.println("new changes");
 
-
+System.out.println("new changes");
 	}
 
 }
